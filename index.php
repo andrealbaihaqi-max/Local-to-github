@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>coba git remote lagi</title>
+</head>
+<body>
+    <h1>test pull</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, iste est, provident eius mollitia ea ut tenetur consequatur et harum eveniet incidunt tempore, ratione velit earum similique distinctio ipsum aperiam?</p>
+    
+</body>
+</html>
