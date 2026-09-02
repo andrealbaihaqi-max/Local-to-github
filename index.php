@@ -6,7 +6,7 @@
     <title>coba git remote lagi</title>
 </head>
 <body>
-    <h1>test pull</h1>
+    <h2>test pull</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, iste est, provident eius mollitia ea ut tenetur consequatur et harum eveniet incidunt tempore, ratione velit earum similique distinctio ipsum aperiam? test jeu</p>
     
 </body>
